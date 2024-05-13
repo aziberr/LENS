@@ -1,0 +1,57 @@
+.a{
+    color: black;
+    text-decoration: none;
+    font-family:"Manrope", sans-serif ;
+}
+h1{
+    color: #9094ff;
+    font-family: "Montserrat", sans-serif;
+    font-size: 3.5em;
+}
+h2{
+ color: #F9F8FF;
+}
+
+p{
+    color: #F9F8FF;
+    font-size: 1.1em;
+    font-family: "Manrope", sans-serif;
+}
+.hypertext{
+    background: linear-gradient(90deg,#8E86B5,#ACAEED);
+    background-attachment: fixed;
+    border-radius: 50px;
+    
+
+
+}
+.bordure{
+    border-right: 1px solid #8e86b5;
+    border-bottom: 1px solid #8e86b5;
+}
+
+ul{
+    color: #F9F8FF;
+    font-size: 1em;
+    font-family: "Manrope", sans-serif;
+}
+body{
+    background-color: #1F2039;
+   
+}
+.barre_du_haut{
+    background-color: white;
+    text-decoration: none;
+    
+}
+.barre_du_bas{
+     
+
+    background-color: white;
+    
+    
+    
+    
+    font-size: 25px;
+
+}
