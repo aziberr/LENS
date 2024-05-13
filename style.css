@@ -7,6 +7,7 @@ h1{
     color: #9094ff;
     font-family: "Montserrat", sans-serif;
     font-size: 3.5em;
+    cursor: pointer;
 }
 h2{
  color: #F9F8FF;
